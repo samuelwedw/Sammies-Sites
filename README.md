@@ -13,3 +13,5 @@
 #	Feel free to add/modify/download this for your self for anyreasons
 
 # note to self, TODO consider updating the repository, from sites(s) to "highschool website project"
+
+#All content created by me- icons/images/characters/logos are my design originally 
